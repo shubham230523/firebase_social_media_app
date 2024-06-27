@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "269618378618",
+    "project_id": "crudtutorial-54da8",
+    "storage_bucket": "crudtutorial-54da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269618378618:android:4cc7b12372b5685d2108c3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0a5KwGr9BUJXgkJNVrcZ78cK9zm2osE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269618378618:android:8188b8b7a112318d2108c3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0a5KwGr9BUJXgkJNVrcZ78cK9zm2osE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269618378618:android:7cbcde82bac995bc2108c3",
+        "android_client_info": {
+          "package_name": "com.example.notes_app_firebase_crud_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0a5KwGr9BUJXgkJNVrcZ78cK9zm2osE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
